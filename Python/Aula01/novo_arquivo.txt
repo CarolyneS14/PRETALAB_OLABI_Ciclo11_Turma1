@@ -1,0 +1,3 @@
+Este é um novo arquivo.
+Aqui está outra linha de texto.
+Esta linha foi adicionada ao arquivo.
